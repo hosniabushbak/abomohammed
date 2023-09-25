@@ -1,0 +1,299 @@
+/***********************************mobile*******************************/
+@media (min-width: 300px) and (max-width: 766.5px){
+    html{
+        overflow-x: hidden;
+    }
+    .hero-Section .navbar .navbar-brand{
+        width: 150px;
+    height: 85px;
+    }
+    .hero-Section .main-title p {
+        font-size: 25px;
+    }
+    .hero-Section .main-title h1 {
+        font-size: 32px;
+    }
+    .hero-Section .main-title h4, .hero-Section .main-title h5 {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .hero-Section ul.course-deatials{
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    #countdown li{
+        width: 70px;
+    height: 70px;
+    margin-left: 10px;
+    padding-top: 7px;
+    }
+    #countdown li span{
+        font-size: 16px;
+    }
+    .hero-Section .rjestration-form{
+        width: 100%;
+    }
+    .hero-Section{
+        height: 1250px;
+        background-position: center left;
+    }
+    .hero-Section .rjestration-form .form-group label {
+        font-size: 16px;
+    }
+    .hero-Section .rjestration-form form button{
+        height: 45px;
+        font-size: 21px;
+    }
+    .about-us .top{
+        margin-top: 120px;
+    }
+    .about-us .top h2{
+        font-size: 30px;
+        width: 320px;
+    }
+    .about-us .top span {
+        font-size: 20px;
+        margin-bottom:0px;
+        display: inline-block;
+    }
+    .about-us .top p,
+    .about-us .down p{
+        font-size: 14px;
+    }
+    .about-us .top p{
+        margin-top: 300px;
+    }
+    .about-us .image{
+        width: 100%;
+    top: 0;
+     right: 0px;
+    position: initial;
+    margin: 0 auto;
+    }
+    .rejest-now a{
+        height: 50px;
+    line-height: 43px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.about-trainer .trainer-info h4 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.about-trainer .trainer-info p{
+    font-size: 18px;
+}
+.opinions {
+    padding-top: 50px;
+    margin-bottom: 34px;
+}
+.opinions .title h2 {
+    font-size: 27px;
+    margin-bottom: 41px;
+}
+.opinions .item .item-content .owl-title {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+.opinions .item .item-content p {
+    font-size: 15px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    text-justify: inter-word;
+}
+.owl-theme .owl-dots{
+    display: none;
+}
+.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next{
+    width: 25px;
+    height: 25px;
+    font-size: 20px;
+}
+.footer .copy-right{
+    font-size: 12px;
+}
+.footer .social-links a{
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    font-size: 12px;
+}
+.footer .social-links li {
+    margin-left: 5px;
+}
+.footer{
+    height: 60px;
+    padding-top: 20px;
+}
+/***********************************************************Thanks page*********************************/
+.thank .thanks-part{
+    padding: 30px 20px;
+}
+.thank .thanks-part p {
+    font-size: 18px;
+}
+.questionnaire {
+    margin-top: 360px;
+}
+.thank .thanks-part h5{
+    font-size: 35px;
+}
+.questionnaire.thank .thanks-part p{
+    font-size: 14px;
+}
+.questionnaire.thank .thanks-part form{
+    width: 95%;
+}
+.questionnaire.thank .thanks-part {
+    height: 600px;
+}
+.hero-Section .course-deatials li span{
+    font-size: 16px;
+}
+.hero-Section .counter-date{
+    margin-right: 15px;
+}
+/**************************************************************/
+.hero-content .course-start{
+    /*width: 92%;*/
+    height: auto;
+    line-height: 40px;
+    margin-bottom: 15px;
+    padding: 5px;
+}
+.main-title h2{
+    font-size: 24px;
+    margin-bottom: 35px;
+}
+.hero-Section .rjestration-form .form-group input{
+    height: 60px;
+}
+.about-trainer .trainer-info h1{
+    font-size:40px;
+}
+.about-trainer .trainer-info h3 {
+    font-size: 23px;
+    margin-bottom: 15px;
+}
+}
+
+
+/**********************************************ibad********************************/
+@media(min-width:768px) and (max-width:1024px){
+    html{
+        overflow-x: hidden;
+    }
+    .hero-Section .rjestration-form{
+        width: 80%;
+    }
+    .about-us .image{
+        top: 170px;
+    }
+    .about-trainer .trainer-info h4{
+        font-size: 35px;
+    margin-bottom: 38px;
+    }
+    .about-trainer .trainer-info p {
+        margin: 0 auto;
+        font-size: 16px;
+    }
+    .opinions {
+        padding-top: 90px;
+        margin-bottom: 90px;
+    }
+    .opinions .title h2{
+        font-size: 30px;
+        margin-bottom: 70px;
+    }
+    .owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next{
+        width: 35px;
+    height: 35px;
+    font-size: 26px;
+    }
+    .opinions .item .item-content .owl-title {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .opinions .item .item-content p {
+        font-size: 14px;
+        width: 95%;
+        margin: 0 auto;
+        text-align: justify;
+    }
+
+    /*******************************************************/
+    .thank .thanks-part{
+        padding: 30px 20px;
+    }
+    .thank .thanks-part p {
+        font-size: 18px;
+    }
+    .questionnaire {
+        margin-top: 360px;
+    }
+    .thank .thanks-part h5{
+        font-size: 35px;
+    }
+    .questionnaire.thank .thanks-part p{
+        font-size: 14px;
+    }
+    .questionnaire.thank .thanks-part form{
+        width: 95%;
+    }
+    .questionnaire.thank .thanks-part {
+        height: 600px;
+    }
+    .hero-Section .course-deatials li span{
+        font-size: 16px;
+    }
+    .hero-Section .counter-date{
+        margin-right: 2
+        5px;
+    }
+    .icon{
+        left: 10px;
+    }
+    .rejest-now a{
+        height: 90px;
+    }
+    .about-trainer{
+        padding-top: 50px;
+    }
+    .hero-Section .main-title h1 {
+        font-size: 45px;
+    }
+    #countdown li{
+        padding:10px
+    }
+    #countdown li span{
+        font-size: 3.5rem;
+    }
+    /**********************************************/
+    .hero-content .course-start{
+        width: 95%;
+        height: auto;
+    }
+    .about-us .top h2 {
+        font-size: 32px;
+        background: #F1F1F1;
+        width: 451px;
+        padding: 12px 14px;
+    }
+    .about-us .image {
+        top: 199px;
+        right: -90px;
+    }
+}
+
+/*--------------------------------ibadpro--------------------------------------------*/
+@media(min-width:1024px) and (max-width:1300px){
+
+
+}
+
+/************************LARG SECREEN***************************************************/
+@media(min-width: 1400px) {
+}
+
+@media(min-width: 1600px) {}
